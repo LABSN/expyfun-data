@@ -1,3 +1,3 @@
 # Videos used in expyfun examples
-- `example-movie.mp4` courtesy of Mark Wronkewiecz
+- `example-video.mp4` courtesy of Mark Wronkewiecz
 
